@@ -1,2 +1,3 @@
-islandpick_34_1	716257	731573	15317
-negative_34_1	1193588	1214400	20813
+GI type                       Start                End               Length
+islandpick_34_1         716257         731573         15317
+negative_34_1         1193588         1214400         20813

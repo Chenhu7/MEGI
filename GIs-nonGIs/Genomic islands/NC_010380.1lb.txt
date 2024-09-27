@@ -1,8 +1,9 @@
-islandpick_68_1	32126	58170	26045
-islandpick_68_2	66495	99217	32723
-islandpick_68_3	1906447	1915282	8836
-islandpick_68_4	2044161	2055033	10873
-negative_68_1	123997	133172	9176
-negative_68_2	283172	298212	15041
-negative_68_3	309798	318444	8647
-negative_68_4	478465	486856	8392
+GI type                       Start                End               Length
+islandpick_68_1         32126         58170         26045
+islandpick_68_2         66495         99217         32723
+islandpick_68_3         1906447         1915282         8836
+islandpick_68_4         2044161         2055033         10873
+negative_68_1         123997         133172         9176
+negative_68_2         283172         298212         15041
+negative_68_3         309798         318444         8647
+negative_68_4         478465         486856         8392

@@ -1,3 +1,4 @@
-islandpick_98_1	495692	505731	10040
-islandpick_98_2	700937	713514	12578
-negative_98_1	1009792	1036392	26601
+GI type                       Start                End               Length
+islandpick_98_1         495692         505731         10040
+islandpick_98_2         700937         713514         12578
+negative_98_1         1009792         1036392         26601

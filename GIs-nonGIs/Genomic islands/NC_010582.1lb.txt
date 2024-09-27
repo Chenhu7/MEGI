@@ -1,7 +1,8 @@
-islandpick_75_1	1205381	1213724	8344
-islandpick_75_2	1266101	1277967	11867
-islandpick_75_3	343926	354348	10423
-negative_75_1	46254	55429	9176
-negative_75_2	217129	232086	14958
-negative_75_3	242419	251065	8647
-negative_75_4	411362	419753	8392
+GI type                       Start                End               Length
+islandpick_75_1         1205381         1213724         8344
+islandpick_75_2         1266101         1277967         11867
+islandpick_75_3         343926         354348         10423
+negative_75_1         46254         55429         9176
+negative_75_2         217129         232086         14958
+negative_75_3         242419         251065         8647
+negative_75_4         411362         419753         8392

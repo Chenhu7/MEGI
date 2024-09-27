@@ -1,4 +1,5 @@
-islandpick_25_1	1408265	1456547	48283
-islandpick_25_2	1590347	1598466	8120
-islandpick_25_3	1714650	1728795	14146
-negative_25_1	910219	918817	8599
+GI type                     Start                End            Length
+islandpick_25_1         1408265         1456547         48283
+islandpick_25_2         1590347         1598466         8120
+islandpick_25_3         1714650         1728795         14146
+negative_25_1         910219         918817         8599
